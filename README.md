@@ -73,6 +73,7 @@ assign borrow=(~a&b);
 endmodule
 ```
 **Truth Table**
+
 Half adder:
 
 ![image](https://github.com/user-attachments/assets/1514f274-62c8-404a-9cfe-7719d3cfa02e)
@@ -83,6 +84,7 @@ Half Subractor:
 
 
 **RTL**
+
 Half adder:
 
 ![image](https://github.com/user-attachments/assets/c99a1691-d460-4aa2-98c5-a6d32cc952cd)
@@ -93,6 +95,7 @@ Half subractor:
 
 
 **Output**
+
 Half Adder:
 
 ![image](https://github.com/user-attachments/assets/bef089c1-cffb-4484-93d3-8030ba7bd7e3)
